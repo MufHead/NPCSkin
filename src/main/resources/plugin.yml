@@ -1,0 +1,10 @@
+name: NPCSkin
+version: '${project.version}'
+main: org.yirankuma.npcskin.NPCSkin
+depend: [SpigotMaster]
+authors: [YiRanKuma]
+commands:
+  npcskin:
+    description: 'npcskin'
+    usage: '/npcskin'
+    permission: op
